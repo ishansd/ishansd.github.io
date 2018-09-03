@@ -9,10 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Deshpande_Generative_Modeling_Using_CVPR_2018_paper.pdf')
+
 Education
 ======
 * M.S. in Electrical and Computer Engineering, University of Illinois, Urbana-Champaign, 2018
-* B.Tech. in Electrical Engineering, Indian Institute of Technology - Bombay, 2015
+* B.Tech. in Electrical Engineering, Indian Institute of Technology - Bombay, Mumbai, 2015
 
 
 Work experience
