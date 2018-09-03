@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Deshpande_Generative_Modeling_Using_CVPR_2018_paper.pdf')
+[<span style="color:blue">**PDF Version.**</span>](https://ishansd.github.io/files/resume.pdf)
 
 Education
 ======
