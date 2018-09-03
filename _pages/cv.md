@@ -23,7 +23,7 @@ Work experience
   * Search Quality
 
 * Summer 2016: Engineering Intern: Advanced Micro Devices
-  * CPU Performance Engineering
+  * CPU Performance Modeling and Validation
   
 Skills
 ======
