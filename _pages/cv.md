@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Short Bio"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download pdf [here](https://ishansd.github.io/files/resume.pdf).
+Download pdf [**here**](https://ishansd.github.io/files/resume.pdf).
 
 Education
 ======
