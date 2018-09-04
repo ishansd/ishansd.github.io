@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "HOME"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Ishan Deshpande"
 description              : &description "personal description"
 url                      : https://ishansd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -84,8 +84,7 @@ author:
   bio              : "Research Engineer"
   location         : "SF Bay Area"
   employer         : "Vicarious"
-  googlescholar    : ("https://scholar.google.com/"
-                      "user=JsdbgxwAAAAJ&hl=en&oi=ao")
+  googlescholar    : "https://scholar.google.com/citations?user=JsdbgxwAAAAJ&hl=en&oi=sra"
   email            : "ishan.sd@gmail.com"
   uri              :
   bitbucket        :
