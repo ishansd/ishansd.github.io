@@ -7,4 +7,4 @@ date: 2016-08-01
 venue: 'Prosody'
 paperurl: 
 ---
-[*PDF*](https://ishansd.github.io/files/prosody.pdf)
+[<img src="https://ishansd.github.io/images/pdf-symbol.jpeg" alt="drawing" width="50"/>](https://ishansd.github.io/files/prosody.pdf)
