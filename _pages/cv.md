@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[<span style="color:blue">**PDF Version.**</span>](https://ishansd.github.io/files/resume.pdf)
+[<span style="color:blue">**PDF**</span>](https://ishansd.github.io/files/resume.pdf)
 
 Education
 ======
