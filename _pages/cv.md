@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download [<img src="https://ishansd.github.io/images/pdf-symbol.jpeg" alt="drawing" width="50"/>](https://ishansd.github.io/files/resume.pdf).
+*Detailed version*: [<img src="https://ishansd.github.io/images/pdf-symbol.jpeg" alt="drawing" width="50"/>](https://ishansd.github.io/files/resume.pdf)
 
 Education
 ======
