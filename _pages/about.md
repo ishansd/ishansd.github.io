@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "(Minimalistic) Personal webpage/ Online CV"
+title: "Personal webpage/ Online CV"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
