@@ -14,17 +14,17 @@ redirect_from:
 
 Education
 ======
-* M.S. in Electrical and Computer Engineering, University of Illinois, Urbana-Champaign, 2018
-* B.Tech. in Electrical Engineering, Indian Institute of Technology - Bombay, Mumbai, 2015
-
+* M.S. in Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, 2018
+* B.Tech. in Electrical Engineering, Indian Institute of Technology - Bombay, 2015
 
 Work experience
 ======
-* Summer 2017: Software Engineering Intern : Twitter
-  * Search Quality
+* Currently: Research Engineer @ Vicarious
+* Summer 2017: Software Engineering Intern @ Twitter
+  * Search Quality team
 
-* Summer 2016: Engineering Intern: Advanced Micro Devices
-  * CPU Performance Modeling and Validation
+* Summer 2016: Hardware Engineering Intern @ Advanced Micro Devices
+  * CPU Performance Modeling and Validation team
   
 Skills
 ======
