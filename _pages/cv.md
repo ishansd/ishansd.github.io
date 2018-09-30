@@ -14,8 +14,10 @@ redirect_from:
 
 Education
 ======
-* M.S. in Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, 2018
-* B.Tech. in Electrical Engineering, Indian Institute of Technology - Bombay, 2015
+* M.S. in Electrical and Computer Engineering
+** University of Illinois at Urbana-Champaign, 2018
+* B.Tech. in Electrical Engineering, 
+** Indian Institute of Technology - Bombay, 2015
 
 Work experience
 ======
